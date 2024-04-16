@@ -1,4 +1,4 @@
-# GitCommands (cmder)
+# GitCommands (using cmder)
 How to check git version : git --version
 How to initialize git on a folder/creating a Repository : git init
 How to enter into a child directory/folder : cd foldername
