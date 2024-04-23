@@ -44,6 +44,12 @@ A commit is a save point of our code at that particular instance.
 ✔How to check list of the branches in a repo : git branch -a
 ✔How to delete a branch : git branch -D branchname
 
+💎Collaborating on github
+✔To push locally to a remote repository on github : git push githubrepolink branchname
+✔To save and rename github link locally on git : git remote add linkname githubrepolink
+✔To push to github after renaming github repo link : git push linkname branch
+✔To pull all remote branches and merge into master branch : git pull githubrepolink master
+
 
 
 
